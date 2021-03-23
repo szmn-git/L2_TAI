@@ -7,6 +7,13 @@ body{
     height: auto;
 }
 
+.scroll {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    display: none;
+}
+
 .stopka {
     display: flex;
     flex-direction: row;
